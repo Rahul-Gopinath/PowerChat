@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "44044333471",
+    "firebase_url": "https://powerchat-bd3ad.firebaseio.com",
+    "project_id": "powerchat-bd3ad",
+    "storage_bucket": "powerchat-bd3ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44044333471:android:3fe74bb9d3ab7d05d04daa",
+        "android_client_info": {
+          "package_name": "com.example.powerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44044333471-57cttmbnahd0js1rnbitb5m6miofriv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA10cYK_rLPXnlJIZQ0XYU2Hn95tVdIFX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44044333471-57cttmbnahd0js1rnbitb5m6miofriv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

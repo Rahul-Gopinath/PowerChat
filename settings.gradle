@@ -1,0 +1,2 @@
+rootProject.name='PowerChat'
+include ':app'
